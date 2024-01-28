@@ -1,4 +1,4 @@
-# Analyzed Interactive Sales Dashboard using PowerBi
+# Analysed Interactive Sales Dashboard using PowerBi
 
 ## Overview
 This repository contains an interactive sales dashboard created with PowerBI. The dashboard provides a comprehensive analysis of sales data using two main datasets: `details.csv` and `orders.csv`. Additionally, it features visually appealing background images and icons to enhance the user experience.
